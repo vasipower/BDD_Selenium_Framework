@@ -14,4 +14,4 @@ Examples:
 
    
     | username  | password  | 
-    | vasisolar@gmail.com | 8892932010 |
+    | vasisolar@gmail.com | XXXXXX |
